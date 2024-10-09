@@ -31,4 +31,12 @@ JavaScript, вероятно, является одним из самых важ
 Первый официальный Standart языка JavaScripta ECMAscript,(ES1) был создан в 1997 году, это стандарт, JavaScript — язык на практике .
 самое большое обновление языка за всю историюб выпущен ES6/ES2015 (ECMAScript 2015).
 
-
+# JavaScript Data Types
+![alt text](abg7.png)
+# JavaScript Operators
+![alt text](bb.jpg)
+## Ariphmetic -+,-,*,/%
+## Comparison ==,===,>=,<=,!=,!==
+## Logical &&, ||,  !
+## Type conversion Number("3.14")
+## Assigment =, +=, -=, *=, /=
